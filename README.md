@@ -1,4 +1,4 @@
-# open_images_2019
+# SOCC - Open Images 2019 by Google
 
 Repository for Open Images 2019 - Object Detection
 
